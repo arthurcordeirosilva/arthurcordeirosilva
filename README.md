@@ -9,6 +9,12 @@
 - **DevOps & Tools:** Docker, AWS, Vercel, Azure, Trello, Git.
 - **Development Principles:** DDD, SOLID, TDD, Clean Architecture.
 ---
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcordeirosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 ## ✨ Featured Projects
 ### [📋 LePetitManutencao - Web Development](https://github.com/arthurcordeirosilva/Site-LePetit-Manutencao)
