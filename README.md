@@ -13,7 +13,7 @@
       align="center" 
       alt="GitHub Stats" 
       height="300" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfcg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcordeirosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br>
 ## ✨ Featured Projects
