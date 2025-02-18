@@ -15,7 +15,7 @@
       height="300" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcordeirosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+<br>
 ## ✨ Featured Projects
 ### [📋 LePetitManutencao - Web Development](https://github.com/arthurcordeirosilva/Site-LePetit-Manutencao)
 **Description:** Showcasing expert machine maintenance services, from repairs to preventive care, for industrial efficiency and reliability..
