@@ -10,7 +10,7 @@
 - **Development Principles:** DDD, SOLID, TDD, Clean Architecture.
 ---
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="300" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcordeirosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
