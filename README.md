@@ -1,7 +1,7 @@
-#  Hello, I'm Arthur Cordeiro Silva 😼
+#  Hello, I'm Arthur Cordeiro Silva 👋
 *`Desenvolvedor FullStack`*
 
-🧐 Dedicated to crafting cutting-edge digital solutions that drive meaningful change. Proficient in technologies like React, React Native and Node.js, I excel at developing web and mobile platforms. Additionally, I have a keen interest in SaaS products, marketing innovation, and the entrepreneurial journey, constantly seeking to merge technology with business growth.
+🐱‍👤 Dedicated to crafting cutting-edge digital solutions that drive meaningful change. Proficient in technologies like React, React Native and Node.js, I excel at developing web and mobile platforms. Additionally, I have a keen interest in SaaS products, marketing innovation, and the entrepreneurial journey, constantly seeking to merge technology with business growth.
 
 ## ⌨ Technical Skills
 - **Frontend:** React, React Native, TypeScript, Tailwind, Figma (Design Systems, UX/UI).
